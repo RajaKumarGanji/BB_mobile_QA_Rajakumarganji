@@ -1,4 +1,4 @@
-# Gulberk Demir- Backbase Mobile QA Assignment
+# Raja kumar ganji- Backbase Mobile QA Assignment
 
 1- Clone this project to your local
 
